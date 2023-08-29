@@ -206,7 +206,7 @@ Same effect as the functions above, but with the boolean argument set to true.
 Also \fBuse\fR is a synonym for \fBloadt\fR.
 .LP
 The function \fBsys\fR admits the user to run a 
-.UX
+UNIX
 command from ML.
 Could be useful, for example,  if one wishes to edit and load a file 
 without leaving LCF. For the editor \fIvi\fR the following function:
